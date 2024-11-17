@@ -1,5 +1,5 @@
-import pandas
-import networkx
-import streamlit
-import matplotlib.pyplot
-import requests
+pip install pandas
+pip install networkx
+pip install streamlit
+pip install matplotlib.pyplot
+pip install requests
