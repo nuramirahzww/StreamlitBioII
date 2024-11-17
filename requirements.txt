@@ -1,5 +1,5 @@
-import pandas
-import networkx
-import streamlit
-import matplotlib.pyplot
-import requests
+streamlit==1.25.0
+pandas==2.1.1
+networkx==3.1
+matplotlib==3.8.0
+pydot==1.4.2
